@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="AgnitioDataSync.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AgnitioDataSync"
+    xmlns:converters="using:AgnitioDataSync.Converters"
+    RequestedTheme="Light">
+
+</Application>
+
